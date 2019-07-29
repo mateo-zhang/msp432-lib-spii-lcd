@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+
+<project>
+  <fileVersion>2</fileVersion>
+  <fileChecksum>2073619592</fileChecksum>
+  <configuration>
+    <name>Debug</name>
+    <outputs>
+      <file>$PROJ_DIR$\startup_msp432p401r_ewarm.c</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\ewarm\msp432p4xx_driverlib.a</file>
+      <file>$PROJ_DIR$\spi_3wire_incrementing_data-master.c</file>
+      <file>$PROJ_DIR$\ewarm\Obj\spi_3wire_incrementing_data-master.__cstat.et</file>
+      <file>$PROJ_DIR$\system_msp432p401r.c</file>
+      <file>$TOOLKIT_DIR$\inc\TexasInstruments\system_msp432p401r.h</file>
+      <file>$PROJ_DIR$\ewarm\Obj\system_msp432p401r.__cstat.et</file>
+      <file>$PROJ_DIR$\ewarm\Obj\startup_msp432p401r_ewarm.o</file>
+      <file>$PROJ_DIR$\ewarm\Obj\system_msp432p401r.pbi</file>
+      <file>$PROJ_DIR$\ewarm\Exe\spi_3wire_incrementing_data-master.out</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\cpu.h</file>
+      <file>$PROJ_DIR$\ewarm\Obj\startup_msp432p401r_ewarm.pbi</file>
+      <file>$PROJ_DIR$\ewarm\Obj\system_msp432p401r.o</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\i2c.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\rtc_c.h</file>
+      <file>$PROJ_DIR$\ewarm\Obj\startup_msp432p401r_ewarm.__cstat.et</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\cs.h</file>
+      <file>$PROJ_DIR$\ewarm\Obj\spi_3wire_incrementing_data-master.pbi</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\aes256.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\ref_a.h</file>
+      <file>$PROJ_DIR$\ewarm\Obj\spi_3wire_incrementing_data-master.o</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Config_Normal.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\intrinsics.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\sysctl.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\fpu.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\timer32.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\mpu.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\rom.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\pmap.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Defaults.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Product.h</file>
+      <file>$TOOLKIT_DIR$\inc\TexasInstruments\msp432p401r.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\driverlib.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\core_cm4.h</file>
+      <file>$PROJ_DIR$\ewarm\Exe\spi_3wire_incrementing_data-master.bin</file>
+      <file>$TOOLKIT_DIR$\inc\TexasInstruments\msp_compatibility.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\eusci.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\spi.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\pcm.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\adc14.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\crc32.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\flash.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\interrupt.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\wdt_a.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\rom_map.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\systick.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\pss.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\uart.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\DLib_Threads.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\xencoding_limits.h</file>
+      <file>$TOOLKIT_DIR$\inc\TexasInstruments\msp.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\reset.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\comp_e.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdint.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\yvals.h</file>
+      <file>$PROJ_DIR$\ewarm\Obj\spi_3wire_incrementing_data-master.pbd</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\gpio.h</file>
+      <file>$TOOLKIT_DIR$\inc\TexasInstruments\msp432p401r_classic.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\stdbool.h</file>
+      <file>$TOOLKIT_DIR$\CMSIS\Include\cmsis_compiler.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\timer_a.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\ycheck.h</file>
+      <file>$TOOLKIT_DIR$\inc\c\cmsis_iar.h</file>
+      <file>$PROJ_DIR$\..\..\..\..\driverlib\MSP432P4xx\dma.h</file>
+      <file>$TOOLKIT_DIR$\lib\rt7M_tl.a</file>
+      <file>$TOOLKIT_DIR$\lib\m7M_tls.a</file>
+      <file>$TOOLKIT_DIR$\lib\dl7M_tln.a</file>
+      <file>$TOOLKIT_DIR$\lib\shb_l.a</file>
+      <file>$PROJ_DIR$\spi_3wire_incrementing_data-master_ewarm.icf</file>
+    </outputs>
+    <file>
+      <name>[ROOT_NODE]</name>
+      <outputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 9</file>
+        </tool>
+      </outputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\startup_msp432p401r_ewarm.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 7</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 11</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 15</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 53 61 54 29 21 30 49 48</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 61 29 49 30 54 21 53 48</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\spi_3wire_incrementing_data-master.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 20</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 17</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 3</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 32 39 53 61 54 29 21 30 49 48 50 31 35 62 22 57 33 59 5 58 18 52 10 40 16 63 36 41 24 56 13 42 26 38 28 46 19 51 27 44 14 37 23 45 25 60 47 43</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 53 23 36 28 50 30 33 10 13 27 47 29 61 58 18 16 24 26 19 14 25 49 21 31 35 62 39 52 40 63 41 56 42 38 46 51 44 37 45 60 43 54 48 57 5 22 59 32</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\system_msp432p401r.c</name>
+      <outputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 12</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 8</file>
+        </tool>
+        <tool>
+          <name>__cstat</name>
+          <file> 6</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ICCARM</name>
+          <file> 53 61 54 29 21 30 49 48 50 31 35 62 22 57 33 59 5</file>
+        </tool>
+        <tool>
+          <name>BICOMP</name>
+          <file> 21 49 31 59 61 5 22 35 53 29 30 62 50 54 48 57 33</file>
+        </tool>
+      </inputs>
+    </file>
+    <file>
+      <name>$PROJ_DIR$\ewarm\Exe\spi_3wire_incrementing_data-master.out</name>
+      <outputs>
+        <tool>
+          <name>OBJCOPY</name>
+          <file> 34</file>
+        </tool>
+      </outputs>
+      <inputs>
+        <tool>
+          <name>ILINK</name>
+          <file> 68 1 20 7 12 67 64 65 66</file>
+        </tool>
+      </inputs>
+    </file>
+  </configuration>
+  <configuration>
+    <name>Release</name>
+    <outputs/>
+    <forcedrebuild>
+      <name>[MULTI_TOOL]</name>
+      <tool>ILINK</tool>
+    </forcedrebuild>
+  </configuration>
+</project>
+
+
